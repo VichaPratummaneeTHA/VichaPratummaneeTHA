@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello World My name is Vicha 👋
+
+- 🔭 I’m currently working on ... Finance and Accounting
+
+- 🌱 I’m currently learning .. PHP and MYsql 
+
+- 🤔 I’m looking for help with ... everything that i do not KNOW.
 
 <!--
 **VichaPratummaneeTHA/VichaPratummaneeTHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
